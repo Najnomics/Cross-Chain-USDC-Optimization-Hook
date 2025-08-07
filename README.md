@@ -13,17 +13,8 @@
 
 [![ERC-4337](https://img.shields.io/badge/ERC--4337-Account%20Abstraction-blue.svg)](https://eips.ethereum.org/EIPS/eip-4337)
 [![Chainlink](https://img.shields.io/badge/Chainlink-Oracle%20Integration-375BD2.svg)](https://chain.link/)
-[![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-Security-4E5EE4.svg)](https://openzeppelin.com/)
-
-[![Ethereum](https://img.shields.io/badge/Ethereum-Mainnet-627EEA?logo=ethereum)](https://ethereum.org/)
-[![Arbitrum](https://img.shields.io/badge/Arbitrum-One-28A0F0?logo=arbitrum)](https://arbitrum.io/)
-[![Base](https://img.shields.io/badge/Base-Network-0052FF?logo=coinbase)](https://base.org/)
-[![Polygon](https://img.shields.io/badge/Polygon-PoS-8247E5?logo=polygon)](https://polygon.technology/)
-[![Optimism](https://img.shields.io/badge/Optimism-Mainnet-FF0420?logo=optimism)](https://optimism.io/)
-
 [![UHI5](https://img.shields.io/badge/UHI5-Hookathon-purple.svg)]()
-[![Prize Tier](https://img.shields.io/badge/Prize%20Tier-VIP%20%2B%20Benefactor-gold.svg)]()
-[![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
+
 
 ## Overview
 
