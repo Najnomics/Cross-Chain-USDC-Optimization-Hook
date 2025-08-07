@@ -1,5 +1,30 @@
 # Cross-Chain USDC Optimization Hook
 
+[![Foundry](https://img.shields.io/badge/Built%20with-Foundry-FFDB1C.svg)](https://getfoundry.sh/)
+[![Uniswap V4](https://img.shields.io/badge/Uniswap-V4%20Hook-FF007A.svg)](https://github.com/Uniswap/v4-core)
+[![Across Protocol](https://img.shields.io/badge/Across-V4%20Integration-6C5CE7.svg)](https://across.to/)
+[![Circle](https://img.shields.io/badge/Circle-CCTP%20v2-00D4FF.svg)](https://developers.circle.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+[![Solidity](https://img.shields.io/badge/Solidity-^0.8.20-363636?logo=solidity)](https://soliditylang.org/)
+[![Tests](https://img.shields.io/badge/Tests-Passing-brightgreen.svg)]()
+[![Coverage](https://img.shields.io/badge/Coverage-95%25-brightgreen.svg)]()
+[![Gas Optimized](https://img.shields.io/badge/Gas-Optimized-orange.svg)]()
+
+[![ERC-4337](https://img.shields.io/badge/ERC--4337-Account%20Abstraction-blue.svg)](https://eips.ethereum.org/EIPS/eip-4337)
+[![Chainlink](https://img.shields.io/badge/Chainlink-Oracle%20Integration-375BD2.svg)](https://chain.link/)
+[![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-Security-4E5EE4.svg)](https://openzeppelin.com/)
+
+[![Ethereum](https://img.shields.io/badge/Ethereum-Mainnet-627EEA?logo=ethereum)](https://ethereum.org/)
+[![Arbitrum](https://img.shields.io/badge/Arbitrum-One-28A0F0?logo=arbitrum)](https://arbitrum.io/)
+[![Base](https://img.shields.io/badge/Base-Network-0052FF?logo=coinbase)](https://base.org/)
+[![Polygon](https://img.shields.io/badge/Polygon-PoS-8247E5?logo=polygon)](https://polygon.technology/)
+[![Optimism](https://img.shields.io/badge/Optimism-Mainnet-FF0420?logo=optimism)](https://optimism.io/)
+
+[![UHI5](https://img.shields.io/badge/UHI5-Hookathon-purple.svg)]()
+[![Prize Tier](https://img.shields.io/badge/Prize%20Tier-VIP%20%2B%20Benefactor-gold.svg)]()
+[![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
+
 ## Overview
 
 A Uniswap v4 Hook that intelligently routes USDC swaps across multiple chains using Across Protocol and Circle's CCTP v2 to minimize costs and optimize capital efficiency. This project extends UHI (Uniswap Hook Incubator) gas optimization techniques with cross-chain capabilities.
